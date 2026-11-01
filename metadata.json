@@ -1,0 +1,6 @@
+{
+  "name": "BizSolve",
+  "description": "Structured business problem-solving workspace with 5-Whys root cause analysis, impact-effort priority matrices, and action roadmaps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
